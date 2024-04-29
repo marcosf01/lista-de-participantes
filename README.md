@@ -7,7 +7,7 @@
 <br>
 
 ## :dart: Objetivo do projeto 
-O projeto consiste em uma forme controlar os participantes, adicionando em uma lista interativa.
+O projeto consiste em uma forma controlar os participantes, adicionando em uma lista interativa.
 
 ## :rocket: Tecnologias utilizadas
 
